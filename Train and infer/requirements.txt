@@ -1,0 +1,12 @@
+transformers==4.42.4
+datasets==2.20.0
+peft==0.11.1
+accelerate==0.31.0
+conda-forge::huggingface_hub
+sentencepiece==0.2.0
+protobuf>=4.25,<6
+numpy==1.26.4
+jsonschema==4.23.0
+python-certifi-win32
+python >=3.11
+conda-forge::pytorch
